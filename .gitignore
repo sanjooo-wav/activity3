@@ -1,1 +1,6 @@
 /writable/debugbar/*.json
+/public/uploads/avatars/*
+!/public/uploads/avatars/.gitkeep
+
+/writable/logs/*
+/writable/session/*
